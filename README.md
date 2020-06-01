@@ -1,0 +1,1 @@
+A simple contact list filterable from A to Z in Javascript + Materialize CSS for learning proposes
